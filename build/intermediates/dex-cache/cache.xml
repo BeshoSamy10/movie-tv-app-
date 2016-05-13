@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2a018465fe528f09d8336309b81668f99ddf7f13">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_38ec49cbf279a3be68c49815ad4372a34b63f063\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="324b392ac42c2e30f5063debe6228484746f6ecd">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff4775649ab55f514d3c1d93aefe063253bdd9c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_a6a2b4d2ece9cb4a3435ba0a8638a6ea96ac6cef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_d1f73fac43a16d57e0dc42e88e8a97ecf8216b15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_7ad371fab4ef031bc4001288993e9053e0963d5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_6621df13f40635735427a35b11f6f7267a7ec2c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_2746a86c50a370bc7c46725bbdcbfa432257b1bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_b3ea5b3693ef0e43169787baf4ae934ce01c226c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_db33079e53793ef01f5cece1094602ccb2ec5a18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Besho Samy\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.2.0\74137f8d9aac26dd9463efe32271f2be8d41cda9\picasso-2.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="C:\Users\Besho Samy\Desktop\HallOfMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.2.0_74170de1a4f7e70014a372b0fb78c8bace4af904\classes.dex" />
+    </item>
+
+</items>

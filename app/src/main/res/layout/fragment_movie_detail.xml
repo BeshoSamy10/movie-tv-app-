@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent">
+
+
+
+<RelativeLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:background="#006762"
+        android:textStyle="normal|italic"
+        android:textColor="#FFF"
+        android:textSize="18dp"
+        android:gravity="top"
+        android:id="@+id/textView_title"
+        android:padding="15dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView_poster"
+        android:src="@drawable/welcome"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/textView_title"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/imageView_poster"
+            android:layout_below="@+id/textView_title"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="50dp"
+            android:orientation="vertical"
+            android:id="@+id/linearlayout_1"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="date"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:id="@+id/textView_date"
+                android:layout_marginLeft="5dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="rate"
+                android:textStyle="italic|bold"
+                android:textSize="12dp"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/textView_rate"/>
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="@string/mkFav"
+                android:id="@+id/makeAsFavourite_button"/>
+
+        </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView_poster"
+        android:text="you should choose a movie"
+        android:id="@+id/overView"
+        android:layout_marginTop="20dp"
+        android:textSize="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"
+        android:layout_below="@+id/overView"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/first_line"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/trailers_list"
+        android:layout_below="@id/first_line"
+        android:layout_margin="10dp">
+
+    </ListView>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"
+        android:layout_below="@+id/trailers_list"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/snd_line"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/review"
+        android:layout_below="@id/snd_line"
+        android:id="@+id/review_image"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines = "10"
+        android:scrollbars = "vertical"
+        android:layout_below="@+id/review_image"
+        android:id="@+id/review_text"
+        android:layout_margin="10dp" />
+
+</RelativeLayout>
+
+</ScrollView>
